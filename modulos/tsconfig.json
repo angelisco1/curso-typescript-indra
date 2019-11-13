@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "outFile": "./public/app.js"
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
